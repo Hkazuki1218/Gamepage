@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+  <head><title>歴史シュミレーション</title></head>
+  <body>
+    <div>
+      <h3>歴史シュミレーション</h3>
+      <p>これはテストバージョンです</p>
+    </div>
+  </body>
+</html>
+<style>
+  body{
+    background-image:url(images/IMG_0135.jpeg);
+    background-position:center center;
+    background-size:cover;
+  }
